@@ -4,7 +4,6 @@
 - PyCharm version : 5.0.4
 
 # How to use
-------
 - Download PyCharm-monokai.jar
 
 - PyCharm -> File -> Import Settings -> Select Jar
