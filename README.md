@@ -7,10 +7,10 @@ Please try **python-monokai-new** mannually edited from Pycharm's Monokai by [me
 # How to Use
 
 - Jar
-  - download python-monokai-new.jar
+  - download [python-monokai-new.jar](python-monokai-new.jar)
   - PyCharm -> File -> Import Settings -> Select Jar
 - icls
-  - download and use python-monokai-new.icls
+  - download and use [python-monokai-new.icls](python-monokai-new.icls)
 
 # Original Version
 
