@@ -6,11 +6,8 @@ Please try **python-monokai-new** mannually edited from Pycharm's Monokai by [me
 
 # How to Use
 
-- Jar
-  - download [python-monokai-new.jar](python-monokai-new.jar)
-  - PyCharm -> File -> Import Settings -> Select Jar
-- icls
-  - download and use [python-monokai-new.icls](python-monokai-new.icls)
+- download [python-monokai-new.jar](python-monokai-new.jar) or [python-monokai-new.icls](python-monokai-new.icls)
+- PyCharm -> File -> Settings -> Editor -> Color Scheme -> Import Scheme -> Select jar/icls file
 
 # Original Version
 
