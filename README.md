@@ -4,10 +4,13 @@ Please try **python-monokai-new** mannually edited from Pycharm's Monokai by [me
 
 ![python-monokai-new](python-monokai-new.png)
 
-# How to use
+# How to Use
 
-- Download PyCharm-monokai.jar
-- PyCharm -> File -> Import Settings -> Select Jar
+- Jar
+  - download python-monokai-new.jar
+  - PyCharm -> File -> Import Settings -> Select Jar
+- icls
+  - download and use python-monokai-new.icls
 
 # Original Version
 
