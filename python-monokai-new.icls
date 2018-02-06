@@ -1,9 +1,9 @@
 <scheme name="Monokai" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2018-02-06T15:56:07</property>
+    <property name="created">2018-02-06T16:22:41</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-02-06T15:56:12</property>
+    <property name="modified">2018-02-06T16:22:46</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <colors>
@@ -1003,7 +1003,7 @@
     </option>
     <option name="PY.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="a6e22e" />
+        <option name="FOREGROUND" value="66d9ef" />
       </value>
     </option>
     <option name="PY.DOC_COMMENT">
@@ -1026,6 +1026,11 @@
       <value>
         <option name="FOREGROUND" value="f92672" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="fd971f" />
       </value>
     </option>
     <option name="PY.LINE_COMMENT">
@@ -1055,6 +1060,11 @@
       </value>
     </option>
     <option name="PY.STRING">
+      <value>
+        <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="PY.STRING.B">
       <value>
         <option name="FOREGROUND" value="e6db74" />
       </value>
