@@ -1,18 +1,17 @@
-# Alternative Version
+# New Version for Pycharm-2017.3
 
-please try **python-monokai-new** mannually edited from Pycharm's Monokai by [me](https://github.com/simoncos), as I found my pycharm-2017.3 on Ubuntu cannot get correct color maps from original .jar below. Screenshot:
+Please try **python-monokai-new** mannually edited from Pycharm's Monokai by [me](https://github.com/simoncos), as I found my Pycharm-2017.3 on Ubuntu cannot get correct color maps from `original/PyCharm-monokai.jar`. New version screenshot:
 
-![python-monokai-new-v0.2](python-monokai-new.png)
-
-# PyCharm Scheme Monokai
-- Dark color theme for Pycharm by Sublime Text's Monokai Theme. 
-
-- PyCharm version : 5.0.4
+![python-monokai-new](python-monokai-new.png)
 
 # How to use
-- Download PyCharm-monokai.jar
 
+- Download PyCharm-monokai.jar
 - PyCharm -> File -> Import Settings -> Select Jar
 
-# Screenshots & Color 
-![](PyCharm-monokai.jpg)
+# Original Version
+
+- Dark color theme for Pycharm by Sublime Text's Monokai Theme. 
+- PyCharm version : 5.0.4
+
+![python-monokai-original](original/PyCharm-monokai.jpg)
