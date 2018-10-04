@@ -3,7 +3,7 @@
 - download `.jar` or `.icls` from the directory of specific monokai theme folder
 - PyCharm -> File -> Settings -> Editor -> Color Scheme -> Import Scheme -> Select jar/icls file
 
-### Pycharm-2017.3
+### Pycharm-2017.3/2018.2
 
 author: [simoncos](https://github.com/simoncos)
 
