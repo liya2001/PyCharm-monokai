@@ -3,17 +3,16 @@
 ### How to Use
 26.02.12 更新
 
-点击顶部菜单 File (文件)。
-选择 Manage IDE Settings (管理 IDE 设置)。
-选择 Import Settings... (导入设置)。
-选择你的 .jar 文件。
-在弹出的对话框中，勾选你想要导入的部分（例如 Color Schemes），然后点击 OK 并重启。
+1. 点击顶部菜单 File (文件)。
+2. 选择 Manage IDE Settings (管理 IDE 设置)。
+3. 选择 Import Settings... (导入设置)。
+4. 选择你的 .jar 文件。
+5. 在弹出的对话框中，勾选你想要导入的部分（例如 Color Schemes），然后点击 OK 并重启。
 
 
 ---
-
-- download `.jar` or `.icls` from the directory of specific monokai theme folder
-- PyCharm -> File -> Settings -> Editor -> Color Scheme -> Import Scheme -> Select jar/icls file
+~~ - download `.jar` or `.icls` from the directory of specific monokai theme folder ~~
+~~ - PyCharm -> File -> Settings -> Editor -> Color Scheme -> Import Scheme -> Select jar/icls file ~~
 
 ### Pycharm-2017.3/2018.2
 
